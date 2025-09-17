@@ -1,1 +1,1 @@
-hello,i am practicing git
+ git is fun!
